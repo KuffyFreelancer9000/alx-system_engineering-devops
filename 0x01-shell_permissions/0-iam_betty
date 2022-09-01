@@ -1,2 +1,3 @@
-#!/bin/bash
- sudo chown you some_file
+#!/bit/bash
+su betty
+
